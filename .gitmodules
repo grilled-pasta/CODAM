@@ -1,3 +1,7 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:grilled-pasta/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:grilled-pasta/get_next_line.git
+	branch = main
